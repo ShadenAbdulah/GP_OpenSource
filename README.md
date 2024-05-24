@@ -11,6 +11,6 @@ Pull requests are welcome. For major changes, please open an issue first
 to discuss what you would like to change.
 
 ## Project Team:
-* Anhar Aldosari
-* Shaden Almutawa
-* Shatha Albahouth
+* Anhar Aldosari @EAnhar
+* Shaden Almutawa @ShadenAbdulah
+* Shatha Albahouth @shathaa2
