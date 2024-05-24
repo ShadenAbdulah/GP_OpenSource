@@ -1,0 +1,4 @@
+Paper Puplished Link: https://ieeexplore.ieee.org/abstract/document/10210369/
+Dataset Link: https://www.u-aizu.ac.jp/labs/is-pp/pplab/ADHD-ASD-HANDWRITING/ADHD-ASD-Dataset.zip
+
+All copyrights are saved to the University of Aizu and Authors.
